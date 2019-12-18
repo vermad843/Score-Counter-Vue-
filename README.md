@@ -13,4 +13,4 @@ Steps :Score-Counter App
 
 [x]using bootswatch : https://bootswatch.com/4/slate/bootstrap.min.css
 
-[x]
+[x]using bootstarp : /component/card 
